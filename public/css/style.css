@@ -1,0 +1,24 @@
+body {
+    background-color: #cfe8ef;
+}
+
+
+
+.logo  {
+ font-family: 'Great Vibes', cursive;
+ font-weight: 900;
+}
+
+
+.daycard {
+    border: 2px solid white;
+    border-radius: 3%;
+    background-color: transparent;
+}
+
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
